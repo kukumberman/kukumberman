@@ -46,4 +46,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/visual%20studio-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![](https://img.shields.io/badge/visual%20studio%20code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
-<img src="https://raw.githubusercontent.com/kukumberman/kukumberman/main/images/design_blyat.jpg" align="center" alt="" width="300px">
+<p align="left">
+<img src="https://raw.githubusercontent.com/kukumberman/kukumberman/main/images/design_blyat.jpg" alt="" width="300px">
+</p>
