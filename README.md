@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 📲 Contact me
+
+[![](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![](https://img.shields.io/badge/Cucumba%236684-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/647139149941309455)
+
+## 🚀 Skills
+
 #### Programming Languages
 [![](https://img.shields.io/badge/c%23-%23178600?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![](https://img.shields.io/badge/c%2B%2B-%23f34b7d?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://docs.microsoft.com/en-us/cpp/)
@@ -29,6 +36,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/vue.js-%2341b883?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 
 #### Backend
+[![](https://img.shields.io/badge/asp.net-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet)
 [![](https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![](https://img.shields.io/badge/express.js-%2317202C?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
