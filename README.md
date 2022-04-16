@@ -54,6 +54,15 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/visual%20studio-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![](https://img.shields.io/badge/visual%20studio%20code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
+---
+
+<div align="left">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=kukumberman&&show_icons=true&hide_title=false&hide_border=false&disable_animations=true" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kukumberman&hide_title=false&hide_border=false&layout=compact&langs_count=5" />
+</div>
+
+---
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/kukumberman/kukumberman/main/images/design_blyat.jpg" alt="" width="300px">
 </p>
