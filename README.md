@@ -15,10 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[linkedin]: https://linkedin.com/in/dima-pepino
+[discord]: https://discordapp.com/users/647139149941309455
+
 ## 📲 Contact me
 
+<!--
 [![](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dima-pepino)
 [![](https://img.shields.io/badge/Cucumba%236684-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/647139149941309455)
+-->
+
+[![](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![](https://img.shields.io/badge/Cucumba%236684-%235865F2?style=for-the-badge&logo=discord&logoColor=white)][discord]
 
 ## 🚀 Skills
 
