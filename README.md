@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/c%23-%23178600?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![](https://img.shields.io/badge/c%2B%2B-%23f34b7d?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://docs.microsoft.com/en-us/cpp/)
 [![](https://img.shields.io/badge/javascript-%23f1e05a?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+<!--
 [![](https://img.shields.io/badge/python-%233572A5?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+-->
 
 #### Frontend
 [![](https://img.shields.io/badge/html-%23e34c26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
@@ -66,7 +68,7 @@ Here are some ideas to get you started:
 
 <div align="left">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=kukumberman&&show_icons=true&hide_title=false&hide_border=false&disable_animations=true" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kukumberman&hide_title=false&hide_border=false&layout=compact&langs_count=5" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kukumberman&hide_title=false&hide_border=false&layout=compact&langs_count=6&hide=shaderlab,hlsl&exclude_repo=brave-regiment-bot" />
 </div>
 
 ---
