@@ -15,19 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[linkedin]: https://linkedin.com/in/dima-pepino
-[discord]: https://discordapp.com/users/647139149941309455
-
-## 📲 Contact me
-
-<!--
-[![](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dima-pepino)
-[![](https://img.shields.io/badge/Cucumba%236684-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/647139149941309455)
--->
-
-[![](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![](https://img.shields.io/badge/Cucumba%236684-%235865F2?style=for-the-badge&logo=discord&logoColor=white)][discord]
-
 ## 🚀 Skills
 
 #### Programming Languages
@@ -39,18 +26,24 @@ Here are some ideas to get you started:
 -->
 
 #### Frontend
+<!--
 [![](https://img.shields.io/badge/html-%23e34c26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/CSS_basics)
-[![](https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![](https://img.shields.io/badge/webpack-%234285F4?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/)
+-->
 [![](https://img.shields.io/badge/vue.js-%2341b883?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![](https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+<!--
+[![](https://img.shields.io/badge/webpack-%234285F4?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/)
+-->
 
 #### Backend
-[![](https://img.shields.io/badge/asp.net-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet)
 [![](https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![](https://img.shields.io/badge/express.js-%2317202C?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![](https://img.shields.io/badge/asp.net-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet)
 [![](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+<!--
+[![](https://img.shields.io/badge/express.js-%2317202C?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![](https://img.shields.io/badge/sql-%234169E1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+-->
 
 #### Management
 [![](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
