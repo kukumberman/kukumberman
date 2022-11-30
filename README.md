@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 #### Programming Languages
 [![](https://img.shields.io/badge/c%23-%23178600?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![](https://img.shields.io/badge/c%2B%2B-%23f34b7d?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://docs.microsoft.com/en-us/cpp/)
 [![](https://img.shields.io/badge/javascript-%23f1e05a?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 <!--
+[![](https://img.shields.io/badge/c%2B%2B-%23f34b7d?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://docs.microsoft.com/en-us/cpp/)
 [![](https://img.shields.io/badge/python-%233572A5?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 -->
 
