@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/trello-%230052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
 
 #### Game Engines
-[![](https://img.shields.io/badge/unity-%23363636?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+[![](https://img.shields.io/badge/unity%20engine-%23363636?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 
 #### Platform & Tools
 [![](https://img.shields.io/badge/windows%2010-%230078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/get-windows-10)
