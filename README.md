@@ -34,6 +34,11 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/visual%20studio%20code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 ## :factory: Also experienced with
+
+It's worth to mention that I know these technologies on a basic level, speaking of commercial experience —  only freelance job.
+
+Most of the time I use them in pet-projects to gain new experience.
+
 [![](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/c%2B%2B-%23f34b7d?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://docs.microsoft.com/en-us/cpp/)
 [![](https://img.shields.io/badge/python-%233572A5?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
