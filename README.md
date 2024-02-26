@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ## :rocket: Proficient with
 
 #### Programming Languages
@@ -60,7 +61,7 @@ Most of the time I use them in pet-projects to gain new experience.
 
 [![](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![](https://img.shields.io/badge/resharper-%23000000?style=for-the-badge&logo=resharper&logoColor=white)](https://www.jetbrains.com/resharper/)
-
+-->
 ---
 
 <div align="left">
